@@ -1,0 +1,16 @@
+ If you use this code, please cite my work
+@ARTICLE{9511822,
+  author={Wang, Yang and Zheng, Ying and Wang, Zhaojing and Yang, Weidong},
+  journal={IEEE Transactions on Industrial Informatics}, 
+  title={Time-Weighted Kernel-Sparse-Representation-Based Real-Time Nonlinear Multimode Process Monitoring}, 
+  year={2022},
+  volume={18},
+  number={4},
+  pages={2411-2421},
+ doi={10.1109/TII.2021.3104111}}
+
+
+
+demo.m: a numerical example
+twksr.m: TWKSR algorithm
+numbdata.mat: Data matrix of three modes. Each mode has 5000 samples.
